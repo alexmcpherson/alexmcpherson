@@ -1,20 +1,17 @@
-# indexzero
-
-> Fancy animated gif: [PENDING]
+# Alex McPherson
 
 ```bash
-$ npm install indexzero
+$ npm install alexmcpherson
 ```
 
 and
 
 ```js
-console.log(require('indexzero'));
+console.log(require('alexmcpherson'));
 ```
 
 To get my contact information.
 
 ## Credits
 
-Thanks to John K Paul for the idea, and Guillermo Rauch for
-pointing it out!
+Thanks to John K Paul for making the forkable repo!
